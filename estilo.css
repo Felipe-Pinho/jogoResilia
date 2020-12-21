@@ -1,0 +1,39 @@
+body,
+h3,
+button {
+    text-align: center;
+}
+
+.box {
+    border-color: black;
+    height: 460px;
+    width: 400px;
+    text-align: justify;
+    font-size: 20px;
+    padding-right: 40px;
+    padding-left: 40px;
+}
+
+.esq {
+    border-right: solid black 2px;
+}
+
+.container {
+    display: flex;
+}
+
+.opcao {
+    text-align: center;
+    border-bottom: solid black 2px;
+    margin-bottom: 10px;
+}
+
+.opcao p {
+    text-align: justify;
+    font-size: 15px;
+}
+
+#boxAcoes {
+    font-size: 17px;
+    text-align: justify;
+}
